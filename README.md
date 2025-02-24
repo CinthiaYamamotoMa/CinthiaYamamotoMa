@@ -1,9 +1,8 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=CinthiaYamamotoMa" alt="CinthiaYamamotoMa" /></p>
 
 <h1 align = "justify"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Cinthia</h1>
-<p align = "justify"><h2>Software Engineer, Coffee lover, Serverless and Blockchain Enthusiast.</h2></p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/cínthia-yamamoto-ma) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/cínthia-yamamoto-ma)
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cinthiaym_@outlook.com)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/cinthiaym_/)
 
